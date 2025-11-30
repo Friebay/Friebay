@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything related to data.
 - 📫 How to reach me: LinkedIn.
 
-Currently working on a Lithuania news aggregator with geolocation and sentiment analysis of news articles. Small demo on https://friebay.github.io/lithuania-news-map/news.html
+Currently working on a Lithuania news aggregator with geolocation and sentiment analysis of news articles. Small demo on https://friebay.github.io/lithuania-news-map/map.html
