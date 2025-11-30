@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on anything related to data.
 - 📫 How to reach me: LinkedIn.
 
-<!---
-Friebay/Friebay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently working on a Lithuania news aggregator with geolocation and sentiment analysis of news articles. Small demo on https://friebay.github.io/lithuania-news-map/news.html
