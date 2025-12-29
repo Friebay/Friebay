@@ -5,4 +5,4 @@
 
 Current projects:
 - Lithuania news aggregator with geolocation and sentiment analysis of news articles. https://friebay.github.io/lithuania-news-map/map.html
-- Lithuanian Twitch relations between streamers. https://github.com/Friebay/Lithuanian-Twitch-Atlas
+- Lithuanian Twitch relations between streamers. https://friebay.github.io/Lithuanian-Twitch-Atlas/
