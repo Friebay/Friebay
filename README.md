@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Friebay.
-- 👀 I’m interested in a lot of things that are related to data. (do you say dAtA or dayta?
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on anything related to data.
-- 📫 How to reach me: LinkedIn.
+- 👋 Hi, I'm @Friebay.
+- 👀 I'm interested in a lot of things that are related to data.
+- 🌱 I'm currently learning everything.
+- 💞️ I'm looking to collaborate on anything related to data.
 
-Currently working on a Lithuania news aggregator with geolocation and sentiment analysis of news articles. Small demo on https://friebay.github.io/lithuania-news-map/map.html
+Current projects:
+- Lithuania news aggregator with geolocation and sentiment analysis of news articles. https://friebay.github.io/lithuania-news-map/map.html
+- Lithuanian Twitch relations between streamers. https://github.com/Friebay/Lithuanian-Twitch-Atlas
